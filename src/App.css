@@ -1,5 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
+  background-color: papayawhip;
+  height: 100vh; 
+  background-image: radial-gradient(circle at 12% -10%, #2eabe1b5 15%, transparent 44.05%),
+  radial-gradient(circle at 89% 90%, #2eabe1b5 15%, transparent 62.05%),
+  radial-gradient(circle at 15% 107%, #2eabe1b5 15%, transparent 41.05%)
 }
 
 .App-logo {
