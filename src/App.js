@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import About from './components/About';
+import Background from './components/Background';
 
 function App() {
   return (
   <div className="App">
+      <Background />
       <About /> 
     </div>
 
